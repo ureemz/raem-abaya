@@ -1,0 +1,25 @@
+# نظام التشغيل والمحررات
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# سجلات وأخطاء
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# تبعيات (لو أضفنا أي أدوات لاحقًا)
+node_modules/
+
+# ملفات محلية / سرّية
+.env
+.env.*
+*.local
+
+# ملفات النظام
+*.tmp
+*.bak
+~$*
